@@ -135,7 +135,7 @@
 
 	// console.log(binarySearch([1,3,4,6,8,10,22,33,34], 34));
 
-	function balancedBrackets(string, leftCount=0, rightCount=0, excludeLeft=[], excludeRight=[]) {
+	/*function balancedBrackets(string, leftCount=0, rightCount=0, excludeLeft=[], excludeRight=[]) {
 
         const startBrackets = ['(','{','['];
         const endBrackets = [')','}',']'];
@@ -206,7 +206,7 @@
     
     }
 
-	console.log(balancedBrackets('hi there'));
+	console.log(balancedBrackets('hi there'));*/
 
 	module.exports = {
 		product,
